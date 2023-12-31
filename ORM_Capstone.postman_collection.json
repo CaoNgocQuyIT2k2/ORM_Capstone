@@ -370,7 +370,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"ho_ten\":\"Cao Ngọc Quý F\",\r\n    \"mat_khau\":\"123456\",\r\n    \"tuoi\":21\r\n}",
+					"raw": "{\r\n    \"ho_ten\":\"Quý Cao\",\r\n    \"mat_khau\":\"123456\",\r\n    \"tuoi\":21\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
